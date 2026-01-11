@@ -40,8 +40,11 @@ Licenciado en Física especializado en computación cuántica, algoritmos de opt
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dmtomas&show_icons=true&theme=algolia" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmtomas&layout=compact&theme=algolia&hide=jupyter%20notebook" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dmtomas&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dmtomas&theme=algolia&hide_border=true" />
+</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmtomas&layout=compact&theme=algolia&hide_border=true&langs_count=8&hide=jupyter%20notebook" />
 </p>
 
 ### 📫 Contact me
