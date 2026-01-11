@@ -32,7 +32,7 @@ Licenciado en Física especializado en computación cuántica, algoritmos de opt
 
 ### 📂 Featured Projects
 
-- **[Smart Home](https://github.com/dmtomas/qrec)**: Development of a local server that controls devices in the house.
+- **[Smart Home]([https://github.com/dmtomas/qrec](https://github.com/dmtomas/Smart-House))**: Development of a local server that controls devices in the house.
 - **[Quantum RL](https://github.com/dmtomas/qrec)**: Automatic recalibration of quantum devices using Reinforcement Learning.
 - **[Tesis](https://github.com/dmtomas/tesis)**: Tesis on the discrimination of quantum devices using Reinforcement Learning.
 - **[3D engine](https://github.com/dmtomas/ChrisGo-3D)**: Basic 3d engine constructed with the 2d library SDL in C++.
