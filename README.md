@@ -25,7 +25,7 @@ Licenciado en Física especializado en computación cuántica, algoritmos de opt
 
 - 🎓 **Licenciatura en Física** - Universidad Nacional de La Plata (UNLP).
 - 🧪 **Doctoral Research** - Université de Bordeaux (Quantum algorithms & Semidefinite programming).
-- 🏆 **Premio Másperi** - Mención a la mejor tesis de grado en Física.
+- 🏆 **Premio Másperi** - Mention to the best Masters thesis in Physics.
 - 🥇 **Mathematical Olympiads (OMA)** - Provincial champion & 2 National Mentions.
 - 🚀 **Competitive Programming** - 4x Regional Competitor in ACM-ICPC & TAP.
 
