@@ -1,6 +1,6 @@
 # Hi there, I'm Tomás Crosta <img src="https://github.com/blackcater/blackcater/raw/main/images/hi.gif" width="25">
 
-Licenciado en Física especializado en computación cuántica, algoritmos de optimización y aprendizaje automático.
+Licenciado en Física specialized in quantum computing, optimization algorithms and machine learning.
 
 ### 🛠 Tools & Languages
 
